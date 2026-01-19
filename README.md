@@ -1,1 +1,2 @@
-# 3457_NguyenQuocTrung_NNPTUD_Week1
+# MSSV: 2280603457
+# HoTen: Nguyễn Quốc Trung
